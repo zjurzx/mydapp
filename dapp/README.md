@@ -30,7 +30,7 @@ npm start run
 
 ### 3、运行成功界面如下
 
-![image-20211106113956083](.\assets\picture1)
+![image-20211106113956083](/assets/picture1)
 
-![image-20211106114033229](.\assets\picture2)
+![image-20211106114033229](/assets/picture2)
 
